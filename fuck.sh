@@ -1,3 +1,3 @@
 #!/bin/bash
-
-git push origin develop:develop
+i
+git -C . push origin develop:develop
