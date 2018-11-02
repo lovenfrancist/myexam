@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Q:	What's the difference!"
+date:   "2018-11-02"
+---
+Q:	What's the difference betweeen USL and the Graf Zeppelin?
+A:	The Graf Zeppelin represented cutting edge technology for its time.
